@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "462831040819",
+    "project_id": "authexample-fe580",
+    "storage_bucket": "authexample-fe580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462831040819:android:e47046bebd4a76d988a646",
+        "android_client_info": {
+          "package_name": "com.example.auth_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462831040819-5hlk933jrb2cafjf5iob1vf5efagvr6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_template",
+            "certificate_hash": "d59da2e3d122c520a25bcfc806a7dc759c8e4b16"
+          }
+        },
+        {
+          "client_id": "462831040819-0mtgbui6pfi8ubkdue84rt9lfdqbkkco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTYr37Od09OkTsw9lh-jnwXbpL6zeBB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462831040819-0mtgbui6pfi8ubkdue84rt9lfdqbkkco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
